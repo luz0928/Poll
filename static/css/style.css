@@ -1,0 +1,59 @@
+.site-navbar {
+    background-color: #FFFFFF!important;
+}
+
+.custom {
+    width: 100% !important;
+
+}
+.divButton{
+    padding-left: 1px!important;
+    padding-right: 5px!important;
+    
+}
+
+.btn-warning {
+    color: #fff!important;
+    background-color: #191919!important;
+    border-color: #191919!important;
+}
+
+.btn-warning:hover{
+    color: #fff!important;
+    background-color: #595959!important;
+    border-color: #595959!important;
+}
+
+.btn-danger {
+    color: #fff!important;
+    background-color: #e60000!important;
+    border-color: #e60000!important;
+}
+
+.btn-danger:hover {
+    color: #fff!important;
+    background-color: #ff3333!important;
+    border-color: #ff3333!important;
+}
+
+.margin-top-15{
+    
+    margin-top: 15px!important;
+}
+.site-navbar .navbar-header .hamburger .hamburger-bar, .site-navbar .navbar-header .hamburger:after, .site-navbar .navbar-header .hamburger:before {
+    background-color: #191919!important;
+}
+
+.btn-default {
+    color: #fff!important;
+    background-color: #737373!important;
+    border-color: #737373!important;
+    
+}
+
+.btn-default:hover {
+    color: #fff!important;
+    background-color: #404040!important;
+    border-color: #404040!important;
+}
+

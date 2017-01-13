@@ -1,0 +1,12 @@
+input[type=range] {
+  
+  width: 10px; /* Specific width is required for Firefox. */
+  height: 100%;
+  background: transparent; /* Otherwise white in Chrome */
+  /*transform: rotate(-90deg);*/
+  -webkit-appearance: slider-vertical;
+  vertical-align: middle;
+  text-align:center;
+ 
+}
+
